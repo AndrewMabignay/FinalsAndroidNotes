@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110267149549",
+    "project_id": "finalsandroiddrew",
+    "storage_bucket": "finalsandroiddrew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110267149549:android:dbc8dd8f6a7513f9d7b0e4",
+        "android_client_info": {
+          "package_name": "com.example.finalsandroidnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb4Jfp0G_Zz4KYVIiUeXEbIpQXygUkUoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
